@@ -22,3 +22,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
 });
+
+// DEVELOPED BY ANTHONY QUINN
+// 01/01/2021 - 02/01/2021
+// Basic app developed using React, React Native, Expo CLI.
